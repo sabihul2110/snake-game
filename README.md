@@ -8,16 +8,7 @@ A simple Snake game built with Python and Pygame.
 2. Install Pygame:
    ```bash
    pip install pygame
-3. Ensure the following folder structure:
-
-   /snake-game/
-├── main.py
-└── resources/
-├── apple.jpg
-├── block.jpg
-├── bg_music_1.mp3
-├── ding.mp3
-└── game_over.mp3
+3. Ensure that the folder structure remains as provided
 5. Run the game:
    python main.py
 
