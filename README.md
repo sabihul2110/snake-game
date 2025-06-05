@@ -13,12 +13,12 @@ A simple Snake game built with Python and Pygame.
    /snake-game/
 ├── main.py
 └── resources/
-    ├── apple.jpg
-    ├── block.jpg
-    ├── bg_music_1.mp3
-    ├── ding.mp3
-    └── game_over.mp3
-4. Run the game:
+├── apple.jpg
+├── block.jpg
+├── bg_music_1.mp3
+├── ding.mp3
+└── game_over.mp3
+5. Run the game:
    python main.py
 
 
