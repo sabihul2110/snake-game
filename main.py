@@ -129,7 +129,7 @@ class Game:
         self.display_score()
         pygame.display.flip()
 
-        #snake apple collison
+        #snake apple collision
         if self.is_collision(self.snake.x[0], self.snake.y[0], self.apple.x, self. apple.y):
             # point_sound = pygame.mixer.Sound("resources/ding.mp3")
             # pygame.mixer.Sound.play(point_sound)
